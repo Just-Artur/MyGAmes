@@ -1,8 +1,13 @@
 console.log('Hiiiii, Why are you inspecting?'); String
 
 function button(){
-    alert('You got Trolled you FOOL!!! Press OK to continue...')
+    alert('sup')
     x = document.getElementById("button")
-    x.innerHTML = "Click this Button Now!!!!"
-    x.innerHTML = "You fell in my TRAP YOU FOOL!!!!"  
+    x.innerHTML = "DOWNLOAD NOW!!!"
+    x.innerHTML = ""
 }
+var inputBox = document.getElementById("myInput");
+
+
+var userInput = inputBox.value;
+  
